@@ -15,11 +15,11 @@ Para usar mi aplicación, sigue estos pasos:
 
 1. Abre tu navegador y escribe `http://localhost:5173` en la barra de direcciones.
 
-`Credenciales:  
- 
+`Credenciales:`  
+
  Usuario: admin
  Contraseña: admin
-`
+
 
 ## Tecnologías usadas
 
