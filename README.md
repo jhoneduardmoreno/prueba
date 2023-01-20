@@ -11,14 +11,15 @@ Para instalar la aplicación, sigue estos pasos:
 
 ## Uso
 
-Para usar mi aplicación, sigue estos pasos:
+Para usar la aplicación, sigue estos pasos:
 
 1. Abre tu navegador y escribe `http://localhost:5173` en la barra de direcciones.
+2. Ingresa las credenciales
 
-`Credenciales:`  
+## Credenciales:  
 
- Usuario: admin
- Contraseña: admin
+ - Usuario: admin
+ - Contraseña: admin
 
 
 ## Tecnologías usadas
