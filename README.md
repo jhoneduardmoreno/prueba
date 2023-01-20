@@ -3,7 +3,7 @@ Esta aplicación te permite llevar un control de tu inventario, creando, leyendo
 
 ## Instalación
 
-Para instalar mi aplicación, sigue estos pasos:
+Para instalar la aplicación, sigue estos pasos:
 
 1. Clona el repositorio en tu computadora: `git clone https://github.com/jhoneduardmoreno/prueba.git`
 2. Instala las dependencias necesarias: `npm install`
@@ -14,7 +14,12 @@ Para instalar mi aplicación, sigue estos pasos:
 Para usar mi aplicación, sigue estos pasos:
 
 1. Abre tu navegador y escribe `http://localhost:5173` en la barra de direcciones.
-2. Agrega usuario y contraseña y listo.
+
+`Credenciales:  
+ 
+ Usuario: admin
+ Contraseña: admin
+`
 
 ## Tecnologías usadas
 
